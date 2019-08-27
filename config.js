@@ -1,38 +1,38 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://www.contentdemand.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Content & Demand',
+  subtitle: 'A blog about things that interest me.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
       label: 'Articles',
       path: '/'
     },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+    // {
+    //   label: 'About me',
+    //   path: '/pages/about'
+    // },
+    // {
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Phil Sheard',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Current: Special Projects Director @ Battenhall, London. Looking after products, innovation and client strategy. Previous: Australia GM @ 33 Digital, Sydney.',
     contacts: {
       email: '',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
+      twitter: '@twitter',
       github: '#',
       rss: '',
       vkontakte: '',
