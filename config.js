@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Phil Sheard',
     photo: '/photo.jpg',
-    bio: 'Things that interest me.\n\nWork: Special Projects Director @ Battenhall, London. Looking after products, innovation and client strategy.',
+    bio: 'Things that interest me.\n\nWork: Special Projects Director @ Battenhall, London. Looking after products, innovation and strategy.',
     contacts: {
       email: '',
       facebook: '#',
