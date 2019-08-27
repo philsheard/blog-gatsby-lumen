@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Phil Sheard',
     photo: '/photo.jpg',
-    bio: 'Current: Special Projects Director @ Battenhall, London. Looking after products, innovation and client strategy. Previous: Australia GM @ 33 Digital, Sydney.',
+    bio: 'Things that interest me.\n\nWork: Special Projects Director @ Battenhall, London. Looking after products, innovation and client strategy.',
     contacts: {
       email: '',
       facebook: '#',
