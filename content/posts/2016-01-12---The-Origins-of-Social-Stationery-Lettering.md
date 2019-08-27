@@ -1,7 +1,7 @@
 ---
 title: The Origins of Social Stationery Lettering
 date: "2016-12-01"
-# template: "post"
+template: "post"
 # draft: false
 slug: "/posts/the-origins-of-social-stationery-lettering"
 # category: "Design Culture"
