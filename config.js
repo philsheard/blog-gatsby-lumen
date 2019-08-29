@@ -27,17 +27,17 @@ module.exports = {
   author: {
     name: 'Phil Sheard',
     photo: '/photo.jpg',
-    bio: 'Things that interest me.\n\nWork: Special Projects Director @ Battenhall, London. Looking after products, innovation and strategy.',
+    bio: 'Things that interest me.',
     contacts: {
       email: '',
       facebook: '#',
       telegram: '#',
-      twitter: '@twitter',
+      twitter: 'philsheard',
       github: '#',
       rss: '',
       vkontakte: '',
       linkedin: '#',
-      instagram: '#',
+      instagram: 'philsheard',
       line: '',
       gitlab: '',
       weibo: ''
